@@ -1,0 +1,6 @@
+{
+  "name": "Gerald Fashion Hub",
+  "description": "Modern Nigerian marketplace for fashion designers, clothing sellers, fabric suppliers, shoes, bags, and boutiques across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
